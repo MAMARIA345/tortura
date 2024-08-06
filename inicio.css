@@ -182,4 +182,14 @@ section {
       }
     }
   }
+  section .container .card-inner .box .icon .iconBox {
+    position: absolute;
+    inset: 0.625rem;
+    background: #282828;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.3s;
+}
 }
