@@ -6,7 +6,7 @@
   margin: 0;
   padding: 0;
 }
-footer{
+
 
 section {
   display: flex;
@@ -18,7 +18,7 @@ section {
   font-weight: 400;
   font-style: normal;
 }
-}
+
 header {
   background-color: #00bfae; /* Verde água */
   color: #ffffff;
