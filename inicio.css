@@ -6,8 +6,9 @@
   margin: 0;
   padding: 0;
 }
+footer{
 
-body {
+section {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -17,7 +18,7 @@ body {
   font-weight: 400;
   font-style: normal;
 }
-
+}
 header {
   background-color: #00bfae; /* Verde água */
   color: #ffffff;
